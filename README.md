@@ -1,8 +1,10 @@
-# Hi, I'm Yushen Ding 👋
+# Hi, I'm Ethan Ding 👋
 
 M.S. student in **Electrical and Computer Engineering (Machine Learning & Data Science)** at the **University of Southern California (USC)**.
 
 Interested in **Multimodal AI, Computer Vision, Vision-Language Models, and AI Systems**.
+
+🔎 **Currently seeking Summer 2027 internship opportunities in AI/ML, Computer Vision, and Multimodal AI.**
 
 ## 🔥 Featured Projects
 
