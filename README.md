@@ -50,6 +50,8 @@ Interested in **Multimodal AI, Computer Vision, Vision-Language Models, and AI S
 **University of Southern California**
 M.S. Electrical and Computer Engineering — Machine Learning & Data Science
 
+**Relevant Coursework:** EE 503 Engineering Probability · EE 510 Engineering Linear Algebra · EE 541 Deep Learning · EE 559 Machine Learning · CSCI 677 Advanced Computer Vision
+
 **Tiangong University**
 B.S. Computer Science and Technology
 
