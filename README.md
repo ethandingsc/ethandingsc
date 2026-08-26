@@ -18,6 +18,24 @@ Interested in **Multimodal AI, Computer Vision, Vision-Language Models, and AI S
 * Conducted **80+ comparative and ablation experiments**
 * Achieved **2%+ improvement in mIoU and mDSC** over U-Net baselines on ISIC2017/2018
 
+## 💼 Experience
+
+### Traffic Control Technology Co., Ltd. — Deep Learning Data Intern
+
+**Railway Autonomous Driving | Jul 2025 – Aug 2025**
+
+* Worked on visual dataset iteration for **railway autonomous driving**, including data quality analysis, annotation standards, and hard-example mining
+* Introduced a **lightweight-model auto-labeling + human review** workflow to improve annotation efficiency
+* Analyzed challenging scenarios including **rain/fog, low-light conditions, curves, and small objects** to identify data and detection bottlenecks
+
+### Beijing Limingtang Culture Technology Co., Ltd. — TTS Development Intern
+
+**Speech Cloning | Jun 2024 – Aug 2024**
+
+* Built and processed speech-cloning datasets using **GPT-SoVITS-TTS**, including denoising, segmentation, and normalization
+* Improved dataset balance with dialect and noisy-environment samples and tuned training configurations to improve voice-cloning quality
+
+
 ## 🛠 Tech Stack
 
 **Languages:** Python · C++
