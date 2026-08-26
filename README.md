@@ -6,14 +6,13 @@ Interested in **Multimodal AI, Computer Vision, Vision-Language Models, and AI S
 
 ## 🔥 Featured Projects
 
-### [LLaVA Multimodal VQA Fine-Tuning & Deployment](https://github.com/ethandingsc/LLaVA-ScienceQA-LoRA-Fine-Tuning-SGLang-Deployment)
+### [LLaVA Multimodal VQA Fine-Tuning & Deployment](https://github.com/ethandingsc/LLaVA-ScienceQA-LoRA-Fine-Tuning-SGLang-Deployment) · *Aug 2026*
 
 * Fine-tuned **LLaVA-v1.6-Vicuna-7B** on ScienceQA using **LoRA**
 * Improved accuracy from **56.32% → 70.10% (+13.78 pp)**
 * Built an end-to-end inference pipeline with **SGLang, OpenAI-compatible API, and Gradio**
 
-
-### [GSMBNet — Medical Image Segmentation](https://github.com/ethandingsc/GSMBNet)
+### [GSMBNet — Medical Image Segmentation](https://github.com/ethandingsc/GSMBNet) · *Jun 2025 – Dec 2025*
 
 * Designed a cross-scale morphology and boundary modeling network for medical image segmentation
 * Conducted **80+ comparative and ablation experiments**
