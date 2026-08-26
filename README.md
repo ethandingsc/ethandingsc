@@ -1,4 +1,4 @@
-# Hi, I'm Ethan Ding 👋
+# Hi, I'm Yushen Ding 👋
 
 M.S. student in **Electrical and Computer Engineering (Machine Learning & Data Science)** at the **University of Southern California (USC)**.
 
