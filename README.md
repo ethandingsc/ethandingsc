@@ -8,6 +8,12 @@ Interested in **Multimodal AI, Computer Vision, Vision-Language Models, and Deep
 
 ## 🔥 Featured Projects
 
+### [Qwen2.5-VL Driving Video Temporal Understanding](https://github.com/ethandingsc/Qwen2.5-VL-Driving-Video-Understanding) · *Sep 2026*
+
+- Fine-tuned **Qwen2.5-VL-7B-Instruct** with **LoRA** for multi-frame driving scene understanding and safety-critical reasoning
+- Improved **MCQ accuracy from 76.40% → 81.62% (+5.22 pp)** and **Lingo-Judge agreement from 61.71% → 73.74% (+12.03 pp)**
+- Built a **5-frame multimodal SFT and evaluation pipeline** on Automingo, with frame-sampling optimization and SGLang deployment in progress
+
 ### [LLaVA Multimodal VQA Fine-Tuning & Deployment](https://github.com/ethandingsc/LLaVA-ScienceQA-LoRA-Fine-Tuning-SGLang-Deployment) · *Aug 2026*
 
 - Fine-tuned **LLaVA-v1.6-Vicuna-7B** on ScienceQA using **LoRA**
