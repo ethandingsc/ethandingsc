@@ -10,24 +10,50 @@ Interested in **Multimodal AI, Computer Vision, Vision-Language Models, and Deep
 
 ### [Qwen2.5-VL Driving Video Temporal Understanding](https://github.com/ethandingsc/Qwen2.5-VL-Driving-Video-Understanding) · *Sep 2026*
 
-- Fine-tuned **Qwen2.5-VL-7B** with **LoRA** for multi-frame driving scene understanding and safety-critical reasoning (offline accident analysis)
-- **MCQ Accuracy** 76.40% → 81.62% (+5.22 pp) · **Lingo-Judge** 61.71% → 73.74% (+12.03 pp)
-- Designed 3 frame-sampling strategies (Uniform / Dense / Event-aware) and identified **dense sampling underperforms uniform** — focusing on high-motion regions loses long-range temporal context
-- End-to-end deployment: **SGLang** (OpenAI-compatible API) + **Gradio** interactive demo
+<p align="center">
+  <a href="https://github.com/ethandingsc/Qwen2.5-VL-Driving-Video-Understanding">
+    <img src="assets/qwen.png" width="75%" alt="Qwen2.5-VL Driving Video Temporal Understanding">
+  </a>
+</p>
+
+* Fine-tuned **Qwen2.5-VL-7B** with **LoRA** for multi-frame driving scene understanding and safety-critical reasoning (offline accident analysis)
+* **MCQ Accuracy** 76.40% → 81.62% (+5.22 pp) · **Lingo-Judge** 61.71% → 73.74% (+12.03 pp)
+* Designed 3 frame-sampling strategies (Uniform / Dense / Event-aware) and identified **dense sampling underperforms uniform** — focusing on high-motion regions loses long-range temporal context
+* End-to-end deployment: **SGLang** (OpenAI-compatible API) + **Gradio** interactive demo
+
 
 ### [LLaVA Multimodal VQA Fine-Tuning & Deployment](https://github.com/ethandingsc/LLaVA-ScienceQA-LoRA-Fine-Tuning-SGLang-Deployment) · *Aug 2026*
 
-- Fine-tuned **LLaVA-v1.6-Vicuna-7B** on ScienceQA using **LoRA**
-- Improved accuracy from **56.32% → 70.10% (+13.78 pp)**
-- Built an end-to-end inference pipeline with **SGLang, OpenAI-compatible API, and Gradio**
+<p align="center">
+  <a href="https://github.com/ethandingsc/LLaVA-ScienceQA-LoRA-Fine-Tuning-SGLang-Deployment">
+    <img src="assets/llava.png" width="75%" alt="LLaVA Multimodal VQA Fine-Tuning & Deployment">
+  </a>
+</p>
+
+* Fine-tuned **LLaVA-v1.6-Vicuna-7B** on ScienceQA using **LoRA**
+* Improved accuracy from **56.32% → 70.10% (+13.78 pp)**
+* Built an end-to-end inference pipeline with **SGLang, OpenAI-compatible API, and Gradio**
+
 
 ### [GSMBNet — Medical Image Segmentation](https://github.com/ethandingsc/GSMBNet) · *Jun 2025 – Dec 2025*
+
+<p align="center">
+  <a href="https://github.com/ethandingsc/GSMBNet">
+    <img src="assets/gsmbnet.png" width="75%" alt="GSMBNet — Medical Image Segmentation">
+  </a>
+</p>
 
 - Designed a cross-scale morphology and boundary modeling network for medical image segmentation
 - Conducted **80+ comparative and ablation experiments**
 - Achieved **2%+ improvement in mIoU and mDSC** over U-Net baselines on ISIC2017/2018
 
 ### [Chinese Name Generator — AI-Assisted Legacy Modernization](https://github.com/ethandingsc/Chinese-Name-Generator-AI-Assisted-Legacy-Modernization) · *Aug 2026*
+
+<p align="center">
+  <a href="https://github.com/ethandingsc/Chinese-Name-Generator-AI-Assisted-Legacy-Modernization">
+    <img src="assets/nameai.png" width="75%" alt="Chinese Name Generator — AI-Assisted Legacy Modernization">
+  </a>
+</p>
 
 - Modernized a legacy **Python/Streamlit application into Next.js + TypeScript** using a **Claude Code–assisted development workflow**
 - Preserved legacy behavior through **126 Golden Tests**, with **178 automated tests** covering migration and regression validation
