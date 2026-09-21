@@ -8,18 +8,18 @@ Interested in **Multimodal AI, Computer Vision, Vision-Language Models, and Deep
 
 ## 🔥 Featured Projects
 
-### [Qwen2.5-VL Driving Video Temporal Understanding](https://github.com/ethandingsc/Qwen2.5-VL-Driving-Video-Understanding) · *Sep 2026*
+### [Agentic Driving Video Understanding with Qwen2.5-VL](https://github.com/ethandingsc/Agentic-Driving-Video-Understanding-with-Qwen2.5-VL) · *Sep 2026*
 
 <p align="center">
-  <a href="https://github.com/ethandingsc/Qwen2.5-VL-Driving-Video-Understanding">
-    <img src="assets/qwen.png" width="75%" alt="Qwen2.5-VL Driving Video Temporal Understanding">
+  <a href="https://github.com/ethandingsc/Agentic-Driving-Video-Understanding-with-Qwen2.5-VL">
+    <img src="assets/qwen.png" width="75%" alt="Agentic Driving Video Understanding with Qwen2.5-VL">
   </a>
 </p>
 
-* Fine-tuned **Qwen2.5-VL-7B** with **LoRA** for multi-frame driving scene understanding and safety-critical reasoning (offline accident analysis)
-* **MCQ Accuracy** 76.40% → 81.62% (+5.22 pp) · **Lingo-Judge** 61.71% → 73.74% (+12.03 pp)
-* Designed 3 frame-sampling strategies (Uniform / Dense / Event-aware) and identified **dense sampling underperforms uniform** — focusing on high-motion regions loses long-range temporal context
-* End-to-end deployment: **SGLang** (OpenAI-compatible API) + **Gradio** interactive demo
+* Fine-tuned **Qwen2.5-VL-7B with LoRA** for multi-frame driving-video understanding, improving **MCQ Accuracy from 76.40% to 81.62%** and **Lingo-Judge from 61.71% to 73.74%**
+* Evaluated **Uniform / Dense / Event-aware temporal sampling** and found that dense sampling can lose long-range temporal context despite capturing more local motion
+* Built a **LangGraph agent** that uses Qwen2.5-VL as a planner to select safety-critical temporal segments, then performs **local re-sampling and detailed multimodal analysis**
+* Integrated lightweight **RAG** for driving-safety knowledge grounding and deployed the fine-tuned model with **SGLang + Gradio**
 
 
 ### [LLaVA Multimodal VQA Fine-Tuning & Deployment](https://github.com/ethandingsc/LLaVA-ScienceQA-LoRA-Fine-Tuning-SGLang-Deployment) · *Aug 2026*
