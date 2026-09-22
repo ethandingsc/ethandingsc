@@ -12,7 +12,7 @@ Interested in **Multimodal AI, Computer Vision, Vision-Language Models, and Deep
 
 <p align="center">
   <a href="https://github.com/ethandingsc/Agentic-Driving-Video-Understanding-with-Qwen2.5-VL">
-    <img src="assets/qwen.png" width="75%" alt="Agentic Driving Video Understanding with Qwen2.5-VL">
+    <img src="assets/Image13_02_33.png" width="75%" alt="Agentic Driving Video Understanding with Qwen2.5-VL">
   </a>
 </p>
 
