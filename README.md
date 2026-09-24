@@ -1,10 +1,8 @@
 # Hi, I'm Yushen Ding 👋
 
-M.S. student in **Electrical and Computer Engineering (Machine Learning & Data Science)** at the **University of Southern California (USC)**.
+M.S. student in Electrical and Computer Engineering (Machine Learning and Data Science) at USC, focused on AI/ML engineering, multimodal AI, and computer vision.
 
-Interested in **Multimodal AI, Computer Vision, Vision-Language Models, and Deep Learning**, with hands-on experience in **model fine-tuning, experimentation, and AI-assisted development**.
-
-🔎 **Currently seeking Summer 2027 internship opportunities in AI/ML, Computer Vision, and Multimodal AI.**
+Currently seeking Summer 2027 internships in AI/ML Engineering, Agentic AI, Multimodal AI, and Computer Vision.
 
 ## 🔥 Featured Projects
 
