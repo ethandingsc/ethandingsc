@@ -6,6 +6,21 @@ Currently seeking Summer 2027 internships in AI/ML Engineering, Agentic AI, Mult
 
 ## 🔥 Featured Projects
 
+### [Chinese Name Generator — AI-Assisted Legacy Modernization](https://github.com/ethandingsc/Chinese-Name-Generator-AI-Assisted-Legacy-Modernization) · *Aug 2026 – Oct 2026*
+
+<p align="center">
+  <a href="https://github.com/ethandingsc/Chinese-Name-Generator-AI-Assisted-Legacy-Modernization">
+    <img src="assets/nameai.png" width="75%" alt="Chinese Name Generator — AI-Assisted Legacy Modernization">
+  </a>
+</p>
+
+- Modernized a legacy employee-facing naming system into a **Next.js, TypeScript, and FastAPI** application while preserving deterministic birth-data, Five-Element, stroke-count, character, and taboo constraints.
+- Built an **agentic recommendation workflow** combining BM25 and vector retrieval, classical-poetry RAG, constrained candidate exploration, and LLM-based whole-name evaluation with diversity control and user-feedback refinement.
+- Added **evidence-grounded explanations** that verify poetry quotations and cultural sources, separating factual references from creative interpretation to reduce unsupported AI claims.
+- Productionized the system with **126 Golden Tests, 178+ automated tests, GitHub Actions CI, and Docker Compose** deployment with persistent workflow state and retrieval caches.
+
+
+
 ### [Agentic Driving Video Understanding with Qwen2.5-VL](https://github.com/ethandingsc/Agentic-Driving-Video-Understanding-with-Qwen2.5-VL) · *Sep 2026*
 
 <p align="center">
@@ -44,19 +59,6 @@ Currently seeking Summer 2027 internships in AI/ML Engineering, Agentic AI, Mult
 - Designed a cross-scale morphology and boundary modeling network for medical image segmentation
 - Conducted **80+ comparative and ablation experiments**
 - Achieved **2%+ improvement in mIoU and mDSC** over U-Net baselines on ISIC2017/2018
-
-### [Chinese Name Generator — AI-Assisted Legacy Modernization](https://github.com/ethandingsc/Chinese-Name-Generator-AI-Assisted-Legacy-Modernization) · *Aug 2026*
-
-<p align="center">
-  <a href="https://github.com/ethandingsc/Chinese-Name-Generator-AI-Assisted-Legacy-Modernization">
-    <img src="assets/nameai.png" width="75%" alt="Chinese Name Generator — AI-Assisted Legacy Modernization">
-  </a>
-</p>
-
-- Modernized a legacy **Python/Streamlit application into Next.js + TypeScript** using a **Claude Code–assisted development workflow**
-- Preserved legacy behavior through **126 Golden Tests**, with **178 automated tests** covering migration and regression validation
-- Integrated the **Google Gemini API** through server-side API routes for contextual Chinese name explanations
-
 
 
 ## 💼 Experience
