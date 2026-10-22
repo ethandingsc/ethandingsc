@@ -46,17 +46,6 @@ Currently seeking Summer 2027 internships in AI/ML Engineering, Agentic AI, Mult
 * Integrated lightweight **RAG** for driving-safety knowledge grounding and deployed the fine-tuned model with **SGLang + Gradio**
 
 
-### [LLaVA Multimodal VQA Fine-Tuning & Deployment](https://github.com/ethandingsc/LLaVA-ScienceQA-LoRA-Fine-Tuning-SGLang-Deployment) · *Aug 2026*
-
-<p align="center">
-  <a href="https://github.com/ethandingsc/LLaVA-ScienceQA-LoRA-Fine-Tuning-SGLang-Deployment">
-    <img src="assets/llava.png" width="75%" alt="LLaVA Multimodal VQA Fine-Tuning & Deployment">
-  </a>
-</p>
-
-* Fine-tuned **LLaVA-v1.6-Vicuna-7B** on ScienceQA using **LoRA**
-* Improved accuracy from **56.32% → 70.10% (+13.78 pp)**
-* Built an end-to-end inference pipeline with **SGLang, OpenAI-compatible API, and Gradio**
 
 
 ### [GSMBNet — Medical Image Segmentation](https://github.com/ethandingsc/GSMBNet) · *Jun 2025 – Dec 2025*
