@@ -19,7 +19,18 @@ Currently seeking Summer 2027 internships in AI/ML Engineering, Agentic AI, Mult
 - Added **evidence-grounded explanations** that verify poetry quotations and cultural sources, separating factual references from creative interpretation to reduce unsupported AI claims.
 - Productionized the system with **126 Golden Tests, 178+ automated tests, GitHub Actions CI, and Docker Compose** deployment with persistent workflow state and retrieval caches.
 
+### [CloudBox — Multi-Source RAG for Technical Support](https://github.com/ethandingsc/cloudbox-multi-source-rag) · *Sep 2026 – Oct 2026*
 
+<p align="center">
+  <a href="https://github.com/ethandingsc/cloudbox-multi-source-rag">
+    <img src="assets/cloudbox.png" width="75%" alt="CloudBox — Multi-Source RAG for Technical Support">
+  </a>
+</p>
+
+- Built a **multi-source technical-support RAG system** integrating official documentation, customer forums, and technical blogs with source-specific chunking and **ChromaDB** vector retrieval.
+- Combined **source-authority weighting, CrossEncoder reranking, and version-aware conflict resolution** to select reliable evidence and generate grounded answers with traceable chunk citations.
+- Achieved **95.00% Hit@5 and 93.54% Recall@5** at the final evidence-selection stage on a fixed **120-query synthetic evaluation set**, with reproducible retrieval experiments.
+- Delivered **FastAPI endpoints, Kafka-backed asynchronous workers, and Redis caching and session history**, packaged with **Docker Compose** and GitHub Actions CI running offline regression tests.
 
 ### [Agentic Driving Video Understanding with Qwen2.5-VL](https://github.com/ethandingsc/Agentic-Driving-Video-Understanding-with-Qwen2.5-VL) · *Sep 2026*
 
