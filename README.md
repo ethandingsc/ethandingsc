@@ -1,8 +1,10 @@
 # Hi, I'm Yushen Ding 👋
 
-M.S. student in Electrical and Computer Engineering (Machine Learning and Data Science) at USC, focused on AI/ML engineering, multimodal AI, and computer vision.
+M.S. student in Electrical and Computer Engineering (Machine Learning & Data Science) at the University of Southern California (USC).
 
-Currently seeking Summer 2027 internships in AI/ML Engineering, Agentic AI, Multimodal AI, and Computer Vision.
+Interested in AI Engineering, Software Engineering, and Machine Learning, with hands-on experience in LLM Agents, RAG Systems, Computer Vision, and Deep Learning.
+
+Passionate about building reliable, scalable AI applications, combining machine learning research with practical software engineering.
 
 ## 🔥 Featured Projects
 
@@ -64,43 +66,36 @@ Currently seeking Summer 2027 internships in AI/ML Engineering, Agentic AI, Mult
 ## 💼 Experience
 
 ### Traffic Control Technology Co., Ltd. — Deep Learning Data Intern
-
 **Railway Autonomous Driving | Jul 2025 – Aug 2025**
 
-* Worked on visual dataset iteration for **railway autonomous driving**, including data quality analysis, annotation standards, and hard-example mining
-* Introduced a **lightweight-model auto-labeling + human review** workflow to improve annotation efficiency
-* Analyzed challenging scenarios including **rain/fog, low-light conditions, curves, and small objects** to identify data and detection bottlenecks
+- Supported computer vision dataset development for **railway autonomous driving**, focusing on data quality analysis, annotation standards, and hard-example mining.
+- Developed a **lightweight-model-assisted auto-labeling and human review workflow** to streamline dataset annotation and quality control.
+- Analyzed challenging scenarios, including **adverse weather, low-light environments, curved tracks, and small-object detection**, to identify dataset limitations and model failure cases.
 
-### Beijing Limingtang Culture Technology Co., Ltd. — TTS Development Intern
+### Beijing Limingtang Culture Technology Co., Ltd. — AI Development Intern
+**Speech Synthesis & AI Applications | Jun 2024 – Aug 2024**
 
-**Speech Cloning | Jun 2024 – Aug 2024**
-
-* Built and processed speech-cloning datasets using **GPT-SoVITS-TTS**, including denoising, segmentation, and normalization
-* Improved dataset balance with dialect and noisy-environment samples and tuned training configurations to improve voice-cloning quality
-
+- Built and processed speech-cloning datasets using **GPT-SoVITS**, including audio denoising, segmentation, and normalization.
+- Improved training data diversity through dialect and noisy-environment samples, and optimized training configurations for voice-cloning quality.
 
 ## 🛠️ Technical Skills
 
-**Languages:** Python · C++ · TypeScript  
-**ML / DL:** PyTorch · LoRA · CNNs · Transformers · Vision-Language Models  
-**Computer Vision:** OpenCV · Image Segmentation · Multimodal Learning  
-**AI & Engineering:** SGLang · Gradio · Claude Code · Gemini API · Git · Linux
+**Languages:** Python · C++ · TypeScript
 
-## 🎓 Education
+**AI / Machine Learning:** PyTorch · Transformers · CNNs · LoRA · Vision-Language Models · Computer Vision
 
-**University of Southern California**
-M.S. Electrical and Computer Engineering — Machine Learning & Data Science
+**LLM & Agent Engineering:** LLM Agents · RAG · BM25 · Hybrid Retrieval · Prompt Engineering · Agent Workflows
 
-**Relevant Coursework:** EE 503 Engineering Probability · EE 510 Engineering Linear Algebra · EE 541 Deep Learning · EE 559 Machine Learning · CSCI 677 Advanced Computer Vision
+**Software Engineering:** REST APIs · Async Programming · Concurrency Control · Git · Linux
 
-**Tiangong University**
-B.S. Computer Science and Technology
+**Frameworks & Tools:** OpenCV · Gradio · SGLang · Claude Code · Gemini API
 
 ## 📄 Publications
 
-* **GSMBNet: A Cross-Scale Morpho-Boundary Modeling Network for Medical Image Segmentation** — ICIC 2026, Springer LNCS
-* **Enhanced YOLO Optimization Study for Road Sign Detection in Autonomous Driving** — CVIDL 2024, IEEE
+- **GSMBNet: A Cross-Scale Morpho-Boundary Modeling Network for Medical Image Segmentation** — ICIC 2026, Springer LNCS
+- **Enhanced YOLO Optimization Study for Road Sign Detection in Autonomous Driving** — CVIDL 2024, IEEE
 
 ## 📫 Contact
 
 📧 [yushending1014@gmail.com](mailto:yushending1014@gmail.com)
+
